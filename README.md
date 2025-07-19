@@ -1,6 +1,6 @@
 # Qt File System Simulator
 
-This is a **Qt C++** desktop application that simulates a file system structure. Users can interact with a graphical interface to perform common operations such as creating files/folders, renaming, copying, pasting, drag-and-drop movement, and searching. The directory structure is saved and restored using a JSON file.
+This is a **Qt C++** desktop application that simulates a file system structure. Users can interact with a graphical interface to perform common operations such as creating files/folders, renaming, copying, pasting, drag-and-drop movement, and searching. The directory structure is saved and restored using a JSON file. Interface design learned by https://github.com/Catxiaobai/FileSystem.
 
 ## 🎯 Features
 
@@ -77,6 +77,7 @@ This project is intended for educational purposes only. It does not use any pate
 # Qt 文件系统模拟器
 
 这是一个使用 **Qt C++** 开发的桌面应用程序，模拟了一个文件系统结构。用户可以通过图形界面执行诸如新建文件/文件夹、重命名、复制、粘贴、拖拽移动、搜索等常见操作，并以 JSON 文件的形式保存和恢复目录结构。
+界面设计学习的这位老哥：https://github.com/Catxiaobai/FileSystem
 
 ## 🎯 功能概览
 
