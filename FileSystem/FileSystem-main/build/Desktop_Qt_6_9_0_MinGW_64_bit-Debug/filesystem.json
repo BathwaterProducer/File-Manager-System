@@ -1,0 +1,230 @@
+{
+    "items": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "icon": "treeItem_txt",
+                                    "name": "文件.txt",
+                                    "type": "txt文件"
+                                },
+                                {
+                                    "icon": "treeItem_txt",
+                                    "name": "新建文件1750144078.txt",
+                                    "path": "D:/FileSystem/FileSystem-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/新建文件1750144078.txt",
+                                    "type": "txt文件"
+                                },
+                                {
+                                    "icon": "treeItem_pdf",
+                                    "name": "新建文件1750144080.pdf",
+                                    "path": "D:/FileSystem/FileSystem-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/新建文件1750144080.pdf",
+                                    "type": "pdf文件"
+                                },
+                                {
+                                    "icon": "treeItem_png",
+                                    "name": "新建文件1750144082.png",
+                                    "path": "D:/FileSystem/FileSystem-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/新建文件1750144082.png",
+                                    "type": "png文件"
+                                },
+                                {
+                                    "icon": "treeItem_doc",
+                                    "name": "新建文件1750144085.doc",
+                                    "path": "D:/FileSystem/FileSystem-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/新建文件1750144085.doc",
+                                    "type": "doc文档"
+                                },
+                                {
+                                    "icon": "treeItem_gif",
+                                    "name": "新建文件1750144088.gif",
+                                    "path": "D:/FileSystem/FileSystem-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/新建文件1750144088.gif",
+                                    "type": "gif文件"
+                                },
+                                {
+                                    "icon": "treeItem_ppt",
+                                    "name": "新建文件1750144092.ppt",
+                                    "path": "D:/FileSystem/FileSystem-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/新建文件1750144092.ppt",
+                                    "type": "ppt文档"
+                                },
+                                {
+                                    "icon": "treeItem_xls",
+                                    "name": "新1234.xls",
+                                    "path": "D:/FileSystem/FileSystem-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/新建文件1750144094.xls",
+                                    "type": "xls文档"
+                                },
+                                {
+                                    "icon": "treeItem_zip",
+                                    "name": "新建文件1750144097.zip",
+                                    "path": "D:/FileSystem/FileSystem-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/新建文件1750144097.zip",
+                                    "type": "zip文件"
+                                },
+                                {
+                                    "icon": "treeItem_pdf",
+                                    "name": "新建文件1750145035.pdf",
+                                    "path": "D:/FileSystem/FileSystem-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/新建文件1750145035.pdf",
+                                    "type": "pdf文件"
+                                },
+                                {
+                                    "icon": "treeItem_txt",
+                                    "name": "新建文件1750145047.txt",
+                                    "path": "D:/FileSystem/FileSystem-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/新建文件1750145047.txt",
+                                    "type": "txt文件"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "icon": "treeItem_txt",
+                                            "name": "新建文件1750145111.txt",
+                                            "path": "D:/FileSystem/FileSystem-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/新建文件1750145111.txt",
+                                            "type": "txt文件"
+                                        }
+                                    ],
+                                    "icon": "treeItem_Project",
+                                    "name": "新建文件夹1750145103",
+                                    "type": "文件夹"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "icon": "treeItem_pdf",
+                                            "name": "新建文件1750144080.pdf",
+                                            "path": "D:/FileSystem/FileSystem-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/新建文件1750144080.pdf",
+                                            "type": "pdf文件"
+                                        }
+                                    ],
+                                    "icon": "treeItem_Project",
+                                    "name": "新建文件夹1750145144",
+                                    "type": "文件夹"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "icon": "treeItem_pdf",
+                                            "name": "新建文件1750144080.pdf",
+                                            "path": "D:/FileSystem/FileSystem-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/新建文件1750144080.pdf",
+                                            "type": "pdf文件"
+                                        }
+                                    ],
+                                    "icon": "treeItem_Project",
+                                    "name": "新建文件夹1750145167",
+                                    "type": "文件夹"
+                                },
+                                {
+                                    "icon": "treeItem_Project",
+                                    "name": "新建文件夹1750145225",
+                                    "type": "文件夹"
+                                }
+                            ],
+                            "icon": "treeItem_Project",
+                            "name": "文件夹1",
+                            "type": "文件夹"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "icon": "treeItem_txt",
+                                    "name": "文件.txt",
+                                    "type": "txt文件"
+                                },
+                                {
+                                    "icon": "treeItem_txt",
+                                    "name": "新建文件1750145068.txt",
+                                    "path": "D:/FileSystem/FileSystem-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/新建文件1750145068.txt",
+                                    "type": "txt文件"
+                                }
+                            ],
+                            "icon": "treeItem_Project",
+                            "name": "文件夹2",
+                            "type": "文件夹"
+                        }
+                    ],
+                    "icon": "treeItem_Disk",
+                    "name": "C盘",
+                    "type": "驱动器"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "icon": "treeItem_txt",
+                                    "name": "文件.txt",
+                                    "type": "txt文件"
+                                }
+                            ],
+                            "icon": "treeItem_Project",
+                            "name": "文件夹1",
+                            "type": "文件夹"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "icon": "treeItem_txt",
+                                    "name": "文件.txt",
+                                    "type": "txt文件"
+                                }
+                            ],
+                            "icon": "treeItem_Project",
+                            "name": "文件夹2",
+                            "type": "文件夹"
+                        }
+                    ],
+                    "icon": "treeItem_Disk",
+                    "name": "D盘",
+                    "type": "驱动器"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "icon": "treeItem_txt",
+                                    "name": "文件.txt",
+                                    "type": "txt文件"
+                                }
+                            ],
+                            "icon": "treeItem_Project",
+                            "name": "文件夹1",
+                            "type": "文件夹"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "icon": "treeItem_txt",
+                                    "name": "文件.txt",
+                                    "type": "txt文件"
+                                }
+                            ],
+                            "icon": "treeItem_Project",
+                            "name": "文件夹2",
+                            "type": "文件夹"
+                        }
+                    ],
+                    "icon": "treeItem_Disk",
+                    "name": "E盘",
+                    "type": "驱动器"
+                },
+                {
+                    "icon": "treeItem_txt",
+                    "name": "新建文件1750145081.txt",
+                    "path": "D:/FileSystem/FileSystem-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/新建文件1750145081.txt",
+                    "type": "txt文件"
+                },
+                {
+                    "icon": "treeItem_Project",
+                    "name": "新建文件夹1750145090",
+                    "type": "文件夹"
+                },
+                {
+                    "icon": "treeItem_Project",
+                    "name": "新建文件夹1750145181",
+                    "type": "文件夹"
+                }
+            ],
+            "icon": "treeItem_Computer",
+            "name": "我的电脑",
+            "type": "system"
+        }
+    ]
+}
