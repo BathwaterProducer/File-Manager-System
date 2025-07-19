@@ -52,7 +52,7 @@ The following file types are recognized and assigned icons:
 
 - Qt 5 or Qt 6 (Qt 5.12+ recommended)
 
-Open the `.pro` file with Qt Creator, then build and run the project.
+Open the `CMakeLists.txt` file with Qt Creator, then build and run the project.
 
 ### Runtime Instructions
 
@@ -121,11 +121,12 @@ This project is intended for educational purposes only. It does not use any pate
 | Excel 表格  | `.xls`     | `treeItem_xls`   |
 | 压缩文件    | `.zip`     | `treeItem_zip`   |
 | 未知类型    | 其他       | `treeItem_Unknownfile` |
+
 ▶️ 使用说明
 编译要求
 Qt 5 或 Qt 6（推荐 Qt 5.12+）
 
-使用 Qt Creator 打开 .pro 工程文件后构建运行
+使用 Qt Creator 打开 CMakeLists.txt 工程文件后构建运行
 
 运行说明
 首次启动会初始化默认的“我的电脑”结构；
