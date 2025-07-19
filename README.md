@@ -122,13 +122,13 @@ This project is intended for educational purposes only. It does not use any pate
 | 压缩文件    | `.zip`     | `treeItem_zip`   |
 | 未知类型    | 其他       | `treeItem_Unknownfile` |
 
-▶️ 使用说明
-编译要求
+## ▶️ 使用说明
+### 编译要求
 Qt 5 或 Qt 6（推荐 Qt 5.12+）
 
 使用 Qt Creator 打开 CMakeLists.txt 工程文件后构建运行
 
-运行说明
+### 运行说明
 首次启动会初始化默认的“我的电脑”结构；
 
 所有用户操作（新建、删除、重命名、移动等）会被保存；
@@ -137,7 +137,7 @@ Qt 5 或 Qt 6（推荐 Qt 5.12+）
 
 再次启动时会自动加载上次保存的状态。
 
-✅ TODO
+## ✅ TODO
 支持文件拖动至外部打开
 
 支持从外部拖入文件并创建节点
@@ -146,5 +146,5 @@ Qt 5 或 Qt 6（推荐 Qt 5.12+）
 
 本地文件监控（如使用 QFileSystemWatcher）
 
-📃 License
+## 📃 License
 本项目仅用于学习与教学目的，未使用任何专利或商业逻辑，如需商业化请自行评估风险。
